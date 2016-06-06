@@ -39,7 +39,7 @@
 
 
 //#include <Arduino.h>
-#include <SoftwareSerial.h>
+//#include <SoftwareSerial.h>
 //#include  "DFPlayer_Mini_Mp3.h"
 
 extern uint8_t send_buf[10];

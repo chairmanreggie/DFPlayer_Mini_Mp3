@@ -40,7 +40,7 @@
  *					note: mp3 file must put into mp3 folder in your tf card
  */
 //#include "Arduino.h"
-#include "SoftwareSerial.h"
+//#include "SoftwareSerial.h"
 
 uint8_t send_buf[10] = {
 	0x7E, 0xFF, 06, 00, 00, 00, 00, 00, 00, 0xEF};
