@@ -37,10 +37,11 @@
  *			note: mp3 file must put into mp3 folder in your tf card
  */
 
-
+#include "application.h"
 //#include <Arduino.h>
 //#include <SoftwareSerial.h>
 //#include  "DFPlayer_Mini_Mp3.h"
+ 
 
 extern uint8_t send_buf[10];
 extern uint8_t recv_buf[10];
