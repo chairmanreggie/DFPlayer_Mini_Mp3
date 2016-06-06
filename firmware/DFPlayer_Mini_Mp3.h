@@ -39,7 +39,7 @@
  *	Description:			mp3 library for DFPlayer mini board
  *					note: mp3 file must put into mp3 folder in your tf card
  */
-#include "Arduino.h"
+//#include "Arduino.h"
 #include "SoftwareSerial.h"
 
 uint8_t send_buf[10] = {
