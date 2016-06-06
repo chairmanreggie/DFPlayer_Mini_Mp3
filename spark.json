@@ -2,6 +2,6 @@
   "name": "DFPlayer_Mini_Mp3",
   "author": "lisper <lisper.li@dfrobot.com>",
   "license": "GNU",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "mp3 library for DFPlayer mini board"
 }
